@@ -23,4 +23,4 @@
 
 [![Harshith D M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshithdm123&show_icons=true)](https://github.com/Harshithdm123/github-readme-stats&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithdm123)](https://github.com/Harshithdm123/github-readme-stats)
