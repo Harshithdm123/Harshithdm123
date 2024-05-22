@@ -24,5 +24,5 @@
 
 <img alt="my langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Harshithdm123"/>
 
+<img alt="my langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithdm123&layout=compact"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithdm123&layout=compact)](https://github.com/Harshithdm123/github-readme-stats&layout=compact)
