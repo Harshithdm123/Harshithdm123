@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Java Programmer and frontend developer from India</h3>
 
 
-
 - 💬 Ask me about **Java, HTML and CSS**
 
 - 📫 How to reach me **dmharshith10@gmail.com**
