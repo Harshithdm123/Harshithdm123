@@ -25,3 +25,5 @@
 
 <img alt="my langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithdm123&layout=compact"/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshithdm123&theme=dark&hide_border=false)<br/>
+
