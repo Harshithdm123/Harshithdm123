@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshithdm123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Harshithdm123" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harshithdm123&show_icons=true&locale=en&theme=tokyonight" alt="Harshithdm123" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshithdm123&&theme=tokyonight" alt="rHarshithdm123" /></p>
-<img src="https://raw.githubusercontent.com/Harshithdm123/Harshithdm123/output/snake.svg" alt="Snake animation" />
+
